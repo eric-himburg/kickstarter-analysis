@@ -1,5 +1,3 @@
-# An Analysis of Kickstarter Campaigns
-This project performed Kickstarter analysis to determine the best options for a theatrical production.  Initially, the data of all Kickstarter efforts were aggregated and then filtered to look at theatrical efforts in the US and UK.  
+# An Analysis of Kickstarter Play Campaigns
+This project analyzed data from Kickstarter plays to determine the best options for a theatrical production.  Initially, the data of all Kickstarter efforts were aggregated and then filtered to look at theatrical efforts, specifically plays.  Then the data was sorted by month and funding goals to see if the start date or the amount of funding required for the production affected its success.    
 ---
-![this graph shows how each subcategory did](https://github.com/eric-himburg/kickstarter-analysis/blob/f2f000b04b43d69d767431ebf9560a30e25e6fdf/Subcategory%20Outcomes.png)
-The graph above shows...
