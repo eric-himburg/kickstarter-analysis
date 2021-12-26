@@ -7,7 +7,8 @@ Kickstarter data was downloaded into an EXCEL spreadsheet.  Numerical data was t
 A picture of the filtered data can be seen below.  There were three main challenges when working with this data.  First, all of the dates such as the funding deadline were intially a Unix timestamp.  This needed to be converted into a standard date format.  Second, the categories and subcategories of all the different Kickstarter campaign were compiled in the same column.  It was necessary to separate each one of these into a category and subcategory.  Third, some the plays did not have any backers.  This led to division by zero errors when calculating the average donor donation.  It was necessary to change these from errors to zero amounts.
 ![screenshot of the Excel file with Kickstarter play data only being displayed](screenshots/kickstarter_data_filtered.png)
 
-A picture of the 
+A picture of the pivot table created, which uses only Kickstarter theater data, can be seen below.  
+![screenshot of the pivot table breaking down play campaign outcomes](screenshots/pivot_table.png)
 
 ## Results
 Put results here
