@@ -15,7 +15,9 @@ Lastly, the outcomes of plays based upon funding goals was analyzed in the table
 
 
 ## Results
-A plot of the theater outcomes versus launch data is shown below.  It can concluded by looking at the graph that more plays are funded in the summer months versus the winter months.  Specifically, there is a peak in successfully funded plays start in May and slowly declining through December.  Notice how the amount of failed and canceled plays stays relatively the same throughout the year.  
+A plot of the theater outcomes versus launch data is shown below.  It can concluded by looking at the graph that more plays are funded in the summer months versus the winter months.  Specifically, there is a peak in successfully funded plays starting in May and slowly declining through December.  Notice how the amount of failed and canceled plays stays relatively the same throughout the year, with some modest variability.  Hence, based on this data the best chance one has to have a play successfully funded would be in the month of May.  The worst time to get a play funded would be in December.  
 ![theater outcomes versus month line graph](resources/Theater_Outcomes_vs_Launch.png)
 
+A plot of the play outcomes based on funding goals is shown below.
+![outcomes of plays based upon funding goals](resources/Outcomes_vs_Goals.png)
 
