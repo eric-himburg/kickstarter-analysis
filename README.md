@@ -24,7 +24,7 @@ A plot of the theater outcomes versus launch data is shown below.  It can conclu
 ![theater outcomes versus month line graph](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Play Outcomes Based on Funding Goals
-A plot of the play outcomes based on funding goals is shown below.  A general trend that can be concluded from the graph is the higher the funding goal the less likely the play is to be successful.  Additionally, the higher the amount of the funding goal the more likely it is to be canceled.  Hence, if one wishes to have a successfully funded play, a lower funding goal is more likely to result in success.  The higher the funding goal the less likely the play is to be funded and the more likely the play is to be canceled outright. These trends do reverese themselves temporarily in the mid-funding ranges of 35k - 50, which may be due to the type of play being funded or the type of donors solicited to fund these plays. 
+A plot of the play outcomes based on funding goals is shown below.  A general trend that can be concluded from the graph is the higher the funding goal the less likely the play is to be successful.  Hence, if one wishes to have a successfully funded play, a lower funding goal is more likely to result in success.  These trends do reverese themselves temporarily in the mid-funding ranges of 35k - 50, which may be due to the type of play being funded or the type of donors solicited to fund these plays. 
 ![outcomes of plays based upon funding goals](resources/Outcomes_vs_Goals.png)
 
 ### Data Limitations
